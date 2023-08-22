@@ -1,4 +1,4 @@
-<h2 align=center>👋 Hi, I am **mufaddal51**</h2>
+<h2 align=center>👋 Hi, I am **mufaddalmohna**</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-muffuali51@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muffuali51@gmail.com)](mailto:muffuali51@gmail.com)
 
