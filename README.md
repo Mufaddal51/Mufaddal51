@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-muffuali51@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muffuali51@gmail.com)](mailto:muffuali51@gmail.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-mufaddal51-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mufaddal51/)](https://www.linkedin.com/in/mufaddal51/)
+[![Linkedin Badge](https://img.shields.io/badge/-mufaddal51-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mufaddalmohna/)](https://www.linkedin.com/in/mufaddalmohna/)
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muffua7c4m&label=Profile%20views&color=0e75b6&style=flat" alt="muffua7c4m" /> </p>
