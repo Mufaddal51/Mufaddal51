@@ -12,7 +12,7 @@
 [![Problem Link](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=red)](https://auth.geeksforgeeks.org/user/muffua7c4m)
 
 
-[![Problem Link](https://img.shields.io/badge/leetcode-298D48?style=for-the-badge&logo=leetcode&logoColor=blue)](https://leetcode.com/Mufaddal78652)
+[![Problem Link](https://img.shields.io/badge/leetcode-298D46?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Mufaddal78652)
 ---
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mufaddal51&theme=dark&layout=compact&align=right&width=40%)](https://github.com/mufaddal51/github-readme-stats)
